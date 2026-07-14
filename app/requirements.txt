@@ -1,0 +1,7 @@
+motor==3.4.0
+pymongo==4.7.2
+python-dotenv==1.0.0
+pydantic==2.7.1
+faker==24.2.0
+tqdm==4.66.4
+asyncio==3.4.3
